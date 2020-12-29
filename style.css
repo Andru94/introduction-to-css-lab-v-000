@@ -20,6 +20,6 @@ div { width: 700px;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
-.perspective-questions {
+.perspective-questions { font-size: italic;
   /* Your code here! */
 }
